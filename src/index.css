@@ -10,6 +10,7 @@ h2 {
   width: 50%;
   margin: 0 auto;
   text-align: center;
+  outline: 1px solid rgba(0, 0, 0, 0.15);
 }
 
 .list-group {
